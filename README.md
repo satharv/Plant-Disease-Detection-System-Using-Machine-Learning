@@ -38,3 +38,5 @@ python3 app.py
 - Each image has its corresponding disease name, so you can verify whether the model is working perfectly or not
 
 ## 💥 Snippet of web app
+![alt text](https://github.com/satharv/Plant-Disease-Detection-System-Using-Machine-Learning/blob/main/demo_images/Image%201.png)
+
