@@ -26,4 +26,15 @@ Flask Deployed App
 ```
 python3 app.py
 ```
+## 💥 Contribution ( Open Source )
+- This Project is now open source.
+- All the developers who are intrested they can contribute in this project.
+- Yo can make UI better , make Deep learning model more powerful , add informative markdown file in section...
+- If you will change Deep learning make sure you upload updated markdown file (.md) , .pdf and .ipynb in particular section.
+- Make sure your code is working. It will not have any type or error.
 
+## 💥 Testing Images
+- If you do not have leaf images then you can use test images located in test_images folder
+- Each image has its corresponding disease name, so you can verify whether the model is working perfectly or not
+
+## 💥 Snippet of web app
